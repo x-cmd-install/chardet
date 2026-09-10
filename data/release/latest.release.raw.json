@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 301584,
       "digest": "sha256:b3af0485b561a03c83f042e6cc091da7078bdc19c5db021354abeec7c39606ac",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz"
