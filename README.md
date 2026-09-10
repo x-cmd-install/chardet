@@ -23,7 +23,27 @@ x install chardet
 - **Latest**: `v0.2.0` (2026-06-25)
 - **Last commit**: 2026-07-19
 - **Assets in release**: 16
-- **Published**: 2026-06-25T23:53:29Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [chardet-aarch64-apple-darwin.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz) | 255.4 KiB | `native/darwin/arm64` |
+| [chardet-aarch64-apple-darwin.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz.sigstore.json) | 8.2 KiB | `native/darwin/arm64` |
+| [chardet-aarch64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz) | 271.8 KiB | `native/linux/arm64/glibc` |
+| [chardet-aarch64-unknown-linux-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/arm64/glibc` |
+| [chardet-aarch64-unknown-linux-musl.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz) | 281.7 KiB | `native/linux/arm64/musl` |
+| [chardet-aarch64-unknown-linux-musl.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/arm64/musl` |
+| [chardet-x86_64-apple-darwin.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz) | 277.8 KiB | `native/darwin/x64` |
+| [chardet-x86_64-apple-darwin.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz.sigstore.json) | 8.2 KiB | `native/darwin/x64` |
+| [chardet-x86_64-pc-windows-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz) | 298.3 KiB | `native/win/x64` |
+| [chardet-x86_64-pc-windows-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/win/x64` |
+| [chardet-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz) | 294.5 KiB | `native/linux/x64/glibc` |
+| [chardet-x86_64-unknown-linux-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/x64/glibc` |
+| [chardet-x86_64-unknown-linux-musl.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz) | 301.9 KiB | `native/linux/x64/musl` |
+| [chardet-x86_64-unknown-linux-musl.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/x64/musl` |
+| [SHA256SUMS](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS) | 734 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS.sigstore.json) | 8.2 KiB | `other` |
 
 ## Popularity
 
@@ -68,8 +88,8 @@ Lowest-scoring checks:
 Install metadata for chardet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chardet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/chardet.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/chardet.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:35:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:48:49Z._

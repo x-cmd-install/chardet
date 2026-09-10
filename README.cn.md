@@ -4,7 +4,7 @@
 
 Detect text file encoding via chardetng (BOM-aware, single-binary Rust CLI)
 
-![chardet](https://repo.x-cmd.io/chardet.svg)
+![chardet](https://repo.x-cmd.io/chardet.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,27 @@ x install chardet
 - **最新版本**: `v0.2.0` (2026-06-25)
 - **最近提交**: 2026-07-19
 - **Release 含资产**: 16 个
-- **发布时间**: 2026-06-25T23:53:29Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [chardet-aarch64-apple-darwin.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz) | 255.4 KiB | `native/darwin/arm64` |
+| [chardet-aarch64-apple-darwin.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz.sigstore.json) | 8.2 KiB | `native/darwin/arm64` |
+| [chardet-aarch64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz) | 271.8 KiB | `native/linux/arm64/glibc` |
+| [chardet-aarch64-unknown-linux-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/arm64/glibc` |
+| [chardet-aarch64-unknown-linux-musl.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz) | 281.7 KiB | `native/linux/arm64/musl` |
+| [chardet-aarch64-unknown-linux-musl.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/arm64/musl` |
+| [chardet-x86_64-apple-darwin.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz) | 277.8 KiB | `native/darwin/x64` |
+| [chardet-x86_64-apple-darwin.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz.sigstore.json) | 8.2 KiB | `native/darwin/x64` |
+| [chardet-x86_64-pc-windows-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz) | 298.3 KiB | `native/win/x64` |
+| [chardet-x86_64-pc-windows-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/win/x64` |
+| [chardet-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz) | 294.5 KiB | `native/linux/x64/glibc` |
+| [chardet-x86_64-unknown-linux-gnu.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/x64/glibc` |
+| [chardet-x86_64-unknown-linux-musl.tar.xz](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz) | 301.9 KiB | `native/linux/x64/musl` |
+| [chardet-x86_64-unknown-linux-musl.tar.xz.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz.sigstore.json) | 8.2 KiB | `native/linux/x64/musl` |
+| [SHA256SUMS](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS) | 734 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS.sigstore.json) | 8.2 KiB | `other` |
 
 ## 流行度
 
@@ -72,4 +92,4 @@ chardet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:35:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:48:50Z._
