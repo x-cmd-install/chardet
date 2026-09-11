@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.0"
   latestRelease: "v0.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:33:21Z
+  collectedAt: 2026-09-11T20:54:14Z
 timeline:
   created: 2026-06-25
   lastCommit: 2026-07-19
@@ -83,7 +83,7 @@ total:
   commit: 20
 ---
 path: /home/runner/.x-repo/github.com/ljh-sh/chardet
-collectedAt: 2026-09-11T03:33:23Z
+collectedAt: 2026-09-11T20:54:15Z
 loc:
   Rust:
     code: 303
