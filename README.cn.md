@@ -30,8 +30,8 @@ x install chardet
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — project was created within the last 90 days. Please review its contents carefully
+- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -58,12 +58,12 @@ x install chardet
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 90d | 2026-06-14 | 2 | 15 | 5 | 2 | 0 | 20 |
-| last180d | 2026-03-16 | 2 | 15 | 5 | 2 | 0 | 20 |
-| 360d | 2025-09-17 | 2 | 15 | 5 | 2 | 0 | 20 |
-| last720d | 2024-09-22 | 2 | 15 | 5 | 2 | 0 | 20 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 1 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 2 | 15 | 5 | 2 | 0 | 20 |
+| last180d | 2026-03-17 | 2 | 15 | 5 | 2 | 0 | 20 |
+| 360d | 2025-09-18 | 2 | 15 | 5 | 2 | 0 | 20 |
+| last720d | 2024-09-23 | 2 | 15 | 5 | 2 | 0 | 20 |
 
 ## Release 资产
 
@@ -108,4 +108,4 @@ chardet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T03:38:13Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T03:45:05Z._
