@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 261576,
       "digest": "sha256:73a01beb6abc31897d495d8287afc9a0967e0e6e48e78b256b723ffb6d203876",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8389,
       "digest": "sha256:a7430ed2819677201f75a70d9cabd59590fb15f2db63d00e1197aed8405b6d9c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:28Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-apple-darwin.tar.xz.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 278304,
       "digest": "sha256:8c91b8380d5be733235e42c8bab22731a0906ec31ea93561ef7c4c2ff93ae49a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:a5262ca449a8e2c96f844bca37aa87f9a2524ba77b6f7f84c2ee2fb5081e4961",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-gnu.tar.xz.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 288416,
       "digest": "sha256:bde9bb20084745259d517ba4a0a173b152374284480ee70fb375795507f894c2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:d28d245c9670747c6f15ccd696d9647ef66712efdf79c318c240fd6a93a0a0eb",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-aarch64-unknown-linux-musl.tar.xz.sigstore.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 284476,
       "digest": "sha256:b4635119c9cc856e9018a58f2cfcc39e7b63ee0b966972491b3b8035de852d19",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:603ec5c7c63cac7b842b7dce01dc412fc47a039dd40d223f47e6e0b0a407312b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-apple-darwin.tar.xz.sigstore.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 305472,
       "digest": "sha256:f30087b10aed589b99e8a4422e760d8c55f6bc703a44cd559bb102fd941fcf48",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8389,
       "digest": "sha256:f1c140bfa0b33cf9bcab16d297ff8dba97cc8f2729eb74e8dfc8bf17b346e9f6",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz.sigstore.json"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 301584,
       "digest": "sha256:b3af0485b561a03c83f042e6cc091da7078bdc19c5db021354abeec7c39606ac",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:55c81fb7d2cecc06ca37bb89f2713b94d6d73431cea58809e26004b4b9963746",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz.sigstore.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 309136,
       "digest": "sha256:6f81c2e7afd9d03c8844a67ba3a16262b98d77cb07c274d75c073db3f32c8bc3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:2ef381ad63f12aa7443007eae480ffacd76d96e41d417972c85a6fac8a844bce",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-musl.tar.xz.sigstore.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 734,
       "digest": "sha256:92c6b24830156b6c33ffdada2a67b516d4e94b0ab447f1d1d7894e7deb912698",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8377,
       "digest": "sha256:b40ae122760bcc50da78cf7f5faa0ff28210a4efc322f9729e553c02d9730fee",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/SHA256SUMS.sigstore.json"
