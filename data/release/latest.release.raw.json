@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 305472,
       "digest": "sha256:f30087b10aed589b99e8a4422e760d8c55f6bc703a44cd559bb102fd941fcf48",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-pc-windows-gnu.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 301584,
       "digest": "sha256:b3af0485b561a03c83f042e6cc091da7078bdc19c5db021354abeec7c39606ac",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-06-25T23:53:27Z",
       "updated_at": "2026-06-25T23:53:28Z",
       "browser_download_url": "https://github.com/ljh-sh/chardet/releases/download/v0.2.0/chardet-x86_64-unknown-linux-gnu.tar.xz"
