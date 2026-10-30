@@ -396,7 +396,7 @@
   categories:
     - python
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: chardet
   binnames:
     - python-chardet-doc
@@ -413,7 +413,7 @@
   categories:
     - python
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: chardet
   binnames:
     - python-chardet-doc
